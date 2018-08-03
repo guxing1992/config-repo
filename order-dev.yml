@@ -16,7 +16,7 @@ server:
   port: 8081
 env: dev6
 girl: 
-  name: wangerxiaoxiao2323
+  name: wan
   age: 15
 #PRODUCT:
 #  ribbon:
